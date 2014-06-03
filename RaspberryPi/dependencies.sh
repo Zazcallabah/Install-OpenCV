@@ -29,7 +29,6 @@ install_dependency python-dev
 install_dependency python-numpy
 install_dependency libqt4-dev
 install_dependency libgtk2.0-dev
-install_dependency libfaac-dev
 install_dependency libmp3lame-dev
 install_dependency libopencore-amrnb-dev
 install_dependency libopencore-amrwb-dev
